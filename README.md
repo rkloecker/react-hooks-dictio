@@ -1,6 +1,6 @@
-todo: react-hooks-dictio ...
-no deploy
-backend: ...
+## React Dictionary App using new hook technology
+
+[frontend for eng-ger-dictionary](https://github.com/rkloecker/eng-ger-dictionary-app/tree/hooks)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
